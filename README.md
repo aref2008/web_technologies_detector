@@ -8,14 +8,12 @@ This is an python tool that is used Wappalyzer and Builtwith extensions to scan 
 Installing
 ============
 
-.. code-block:: bash
 
     pip install -r req.txt
 
 GUI mode
 =====
 
-.. code-block:: bash
 
     python web_technologies_detector.py -g
 
@@ -24,7 +22,6 @@ GUI mode
 Terminal mode
 =====
 
-.. code-block:: bash
 
     python web_technologies_detector.py -u http://example.com
 
